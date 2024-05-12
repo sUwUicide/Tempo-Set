@@ -1,0 +1,84 @@
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Tempo Set.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Tempo Set.pdb
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\BucketheadEntertainment.Plugins.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\MelonLoader.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\RUMBLE.Runtime.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\0Harmony.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\MonoMod.Utils.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\bHapticsLib.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Mono.Cecil.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\AssetsTools.NET.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Tomlet.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.XR.OpenXR.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\PhotonRealtime.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\PhotonUnityNetworking.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Photon3Unity3D.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\PlayFab.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\PhotonChat.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.Timeline.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\RUMBLE.Plugins.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.InputSystem.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.UI.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Il2CppSystem.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\SmartLocalization.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\RUMBLE.Rendering.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\PhotonVoice.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\RUMBLE.Platform.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\RUMBLE.Platform.Info.Steam.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Iced.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\WebSocketDotNet.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.XR.Management.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Il2CppSystem.Numerics.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.Mathematics.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Il2CppMono.Security.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Il2CppSystem.Configuration.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Il2CppSystem.Xml.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\PhotonVoice.API.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\RUMBLE.Platform.Info.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\MelonLoader.xml
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\obj\Debug\Tempo Set.csproj.AssemblyReference.cache
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\obj\Debug\Tempo Set.csproj.CoreCompileInputs.cache
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\obj\Debug\Tempo Set.csproj.Up2Date
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\obj\Debug\Tempo Set.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\obj\Debug\Tempo Set.pdb
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\ModUI.dll
