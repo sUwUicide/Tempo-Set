@@ -15,7 +15,7 @@ using Tempo_Set;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany(Tempo_Set.BuildInfo.Company)]
 [assembly: AssemblyProduct(Tempo_Set.BuildInfo.ModName)]
-[assembly: AssemblyCopyright("Copyright ©  1768")]
+[assembly: AssemblyCopyright("Copyright ©  1769")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

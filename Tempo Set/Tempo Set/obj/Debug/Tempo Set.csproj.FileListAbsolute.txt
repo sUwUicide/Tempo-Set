@@ -3,8 +3,6 @@ C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Tempo Set.pdb
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\BucketheadEntertainment.Plugins.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\MelonLoader.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\RUMBLE.Runtime.dll
-C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnhollowerBaseLib.dll
-C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Il2Cppmscorlib.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.CoreModule.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.TextMeshPro.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\0Harmony.dll
@@ -35,7 +33,6 @@ C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.ParticleSy
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\RUMBLE.Plugins.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.InputSystem.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
-C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\UnityEngine.UI.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Il2CppSystem.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\SmartLocalization.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
@@ -82,3 +79,4 @@ C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\obj\Debug\Tempo Set.csproj.Up2Da
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\obj\Debug\Tempo Set.dll
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\obj\Debug\Tempo Set.pdb
 C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\ModUI.dll
+C:\Users\Tripp\source\repos\Tempo Set\Tempo Set\bin\Debug\RumbleModdingAPI.dll
